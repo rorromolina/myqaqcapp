@@ -1,7 +1,7 @@
-venv\
-share\
-Scripts\
-Lib\
-Include\
-etc\
-__pycache__\
+venv/
+share/
+Scripts/
+Lib/
+Include/
+etc/
+__pycache__/
